@@ -4,6 +4,7 @@ const pxtorem = require('postcss-pxtorem')
 const url = 'https://lumen.netlify.com'
 
 module.exports = {
+  pathPrefix: '__GATSBY_IPFS_PATH_PREFIX__',
   siteMetadata: {
     url,
     siteUrl: url,
@@ -135,6 +136,7 @@ module.exports = {
     'gatsby-plugin-offline',
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-ipfs',
     {
       resolve: 'gatsby-plugin-sass',
       options: {
