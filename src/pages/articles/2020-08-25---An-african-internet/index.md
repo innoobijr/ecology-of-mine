@@ -11,8 +11,7 @@ description: "Commenting an a vibrant and emerging space of creation and self-re
 ---
 
 
-So, what is an 'African internet'? 
-
+So, what is an 'African internet'? Lol I dont know.
 
 
 Note:
